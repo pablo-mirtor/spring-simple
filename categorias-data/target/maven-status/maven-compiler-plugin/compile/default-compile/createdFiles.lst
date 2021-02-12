@@ -1,0 +1,5 @@
+es\capgemini\curso\categoriasdata\modelo\entidades\Categoria.class
+es\capgemini\curso\categoriasdata\modelo\entidades\Producto.class
+es\capgemini\curso\categoriasdata\modelo\CategoriaDAO.class
+es\capgemini\curso\categoriasdata\modelo\ProductoDAO.class
+es\capgemini\curso\categoriasdata\config\SpringConfig.class
